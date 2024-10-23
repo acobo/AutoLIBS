@@ -1,5 +1,6 @@
 # AutoLIBS
 LIBS measurement software
+
 This software has been developed at the Photonics Engineering Group of the University of Cantabria to perform automated LIBS experiments. The software is able to control:
 
 Lotis LS-2134D Nd:YAG laser
